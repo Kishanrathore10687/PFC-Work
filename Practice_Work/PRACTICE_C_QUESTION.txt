@@ -1,0 +1,63 @@
+1. Write a C program to display the values and sizes of different data types (int, float, char, double).
+
+2. Write a C program to perform arithmetic operations (addition, subtraction, multiplication, division, modulus) on two integers.
+
+3. Write a C program to perform arithmetic operations (addition, subtraction, multiplication, division, modulus) on two integers.
+
+4. Write a C program to demonstrate the difference between pre-increment (++x) and post-increment (x++) operators.
+
+5. Write a C program to calculate the gross salary, income tax, and net salary of an employee based on basic salary.
+
+6. Write a C program to compare two account balances and display the results.
+
+7. Write a C program to implement a simple login system with username and password validation.
+
+8. Write a C program to perform bank balance operations using compound assignment operators.
+
+9. Write a C program to check whether a given year is a leap year or not.
+
+10. Write a C program to assign grades to a student based on their marks.
+
+11. Write a C program to check whether a character is an alphabet, digit, or special character.
+
+12. Write a C program to calculate the electricity bill based on units consumed.
+
+13. Write a C program to simulate a traffic light system using switch case.
+
+14. Write a C program to display the number of days in a given month using switch case.
+
+15. Write a C program to calculate the total bill amount for 5 items.
+
+16. Write a C program to calculate the total electricity consumption for a week.
+
+17. Write a C program to count the number of employees aged 30 or older from 10 employees.
+
+18. Write a C program to calculate the total distance walked in a month.
+
+19. Write a C program to count the number of days an employee was present in a month.
+
+20. Write a C program to print various patterns: rectangle, square, right-angle triangle, reverse right-angle triangle, and pyramid.
+
+21. Write a C program to create a menu-driven program for printing multiplication table using while loop.
+
+22. Write a C program to create a menu-driven program for printing multiplication table using do-while loop.
+
+23. Write a C program to display the weekly lecture schedule.
+
+24. Write a C program to display the lecture schedule for a specific day.
+
+25. Write a C program to find the largest of three numbers using a function.
+
+26. Write a C program to calculate total marks, average, and grade for 5 subjects using functions.
+
+27. Write a C program to swap two numbers using pointers.
+
+28. Write a C program to find the maximum of two numbers using pointers.
+
+29. Write a C program to perform arithmetic operations using pointers.
+
+30. Write a C program to calculate the factorial of a number using call by reference.
+
+31. Write a C program to input and display an array of 5 integers.
+
+32. Write a C program to calculate the sum of array elements.
