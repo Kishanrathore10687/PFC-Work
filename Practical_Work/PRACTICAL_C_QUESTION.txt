@@ -1,0 +1,37 @@
+1. Write a C program to print your name and age.
+
+2. Write a C program to input two numbers, calculate their sum, and find the largest number among them.
+
+3. Write a C program to swap two numbers using a temporary variable.
+
+4. Write a C program to calculate the area of a circle given its radius.
+
+5. Write a C program to check whether a given number is even or odd.
+
+6. Write a C program to find the maximum of three numbers using the ternary operator.
+
+7. Write a C program to find the maximum of three numbers using the ternary operator.
+
+8. Write a C program to create a simple calculator that performs addition, subtraction, multiplication, and division using a switch statement.
+
+9. Write a C program to print numbers from 1 to 10 using a for loop.
+
+10. Write a C program to input multiple numbers, sum them up, skip negative numbers, and stop if zero is entered.
+
+11. Write a C program to print a pyramid pattern of stars.
+
+12. Write a C program to print a triangle of numbers.
+
+13. Write a C program to calculate the square of a number using a function.
+
+14. Write a C program to check whether a given number is prime or not using a function.
+
+15. Write a C program to calculate the factorial of a number using a function.
+
+16. Write a C program to swap two numbers using pointers.
+
+17. Write a C program to input elements into an array and display them.
+
+18. Write a C program to search for an element in an array using linear search.
+
+19. Write a C program to sort an array in ascending order using bubble sort.
